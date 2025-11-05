@@ -1,4 +1,5 @@
 # 🌿 Reflectify — Track & Reflect
+
 [![Status](https://img.shields.io/badge/status-private-red?style=flat-square)]()
 [![Made with](https://img.shields.io/badge/made%20with-Firebase-orange?style=flat-square\&logo=firebase)]()
 [![Powered by](https://img.shields.io/badge/powered%20by-Gemini%20AI-blue?style=flat-square\&logo=google)]()
@@ -10,6 +11,14 @@
 Reflectify adalah aplikasi **refleksi diri dan pelacak pertumbuhan pribadi** yang dirancang untuk membantu pengguna mencatat aktivitas harian, menulis jurnal reflektif, serta melacak suasana hati dan fokus dengan dukungan **AI dan Firebase**.
 
 Repositori ini dibuat **khusus sebagai dokumentasi pribadi** dan **tidak bersifat open source**.
+
+---
+
+## 🌐 Demo Langsung
+
+👉 **Coba aplikasi di sini:** [https://reflectfy.netlify.app/](https://reflectfy.netlify.app/)
+
+> Note: Beberapa fitur mungkin memerlukan login atau konfigurasi Firebase agar berfungsi penuh.
 
 ---
 
@@ -65,7 +74,7 @@ Repositori ini dibuat **khusus sebagai dokumentasi pribadi** dan **tidak bersifa
 reflectify/
 │
 ├── index.html          # File utama aplikasi
-├── /assets             # (opsional) gambar, ikon, dll.
+├── /src/               # Screenshot atau aset visual
 └── README.md           # Dokumentasi proyek
 ```
 
@@ -111,15 +120,13 @@ reflectify/
 
 ## 🖼️ Preview Antarmuka (UI)
 
-| Halaman          | Tampilan                                                                                       |
-| ---------------- | ---------------------------------------------------------------------------------------------- |
-| Login / Register | ![Auth Page Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/login%20register%20mobile.png)      |
-| Tracker Harian   | ![Tracker Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/tracker%20mobile.png)     |
-| Insight Journal  | ![Journal Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/jurnal%20mobile.png)     |
-| Growth Dashboard | ![Dashboard Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/growth%20mobile.png) |
-| AI Companion     | ![AI Chat Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/ai%20mobile.png)          |
-
-> *Catatan:* Ganti tautan gambar di atas dengan screenshot asli dari proyekmu di folder `/assets/preview/` agar tampil di halaman README GitHub.
+| Halaman          | Tampilan                                                                                                                |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Login / Register | ![Auth Page Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/login%20register%20mobile.png) |
+| Tracker Harian   | ![Tracker Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/tracker%20mobile.png)            |
+| Insight Journal  | ![Journal Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/jurnal%20mobile.png)             |
+| Growth Dashboard | ![Dashboard Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/growth%20mobile.png)           |
+| AI Companion     | ![AI Chat Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/ai%20mobile.png)                 |
 
 ---
 
@@ -138,6 +145,7 @@ reflectify/
 ## 💬 Kredit
 
 * Developer: **@JakiJeki**
+* Website: [https://reflectfy.netlify.app](https://reflectfy.netlify.app)
 * Teknologi pendukung: Firebase, Chart.js, Tailwind CSS, Gemini API
 * Tujuan: Meningkatkan kesadaran diri dan kebiasaan refleksi harian
 
