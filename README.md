@@ -113,11 +113,11 @@ reflectify/
 
 | Halaman          | Tampilan                                                                                       |
 | ---------------- | ---------------------------------------------------------------------------------------------- |
-| Login / Register | ![Auth Page Preview](https://github.com/user-attachments/assets/example-auth-preview.png)      |
-| Tracker Harian   | ![Tracker Preview](https://github.com/user-attachments/assets/example-tracker-preview.png)     |
-| Insight Journal  | ![Journal Preview](https://github.com/user-attachments/assets/example-journal-preview.png)     |
-| Growth Dashboard | ![Dashboard Preview](https://github.com/user-attachments/assets/example-dashboard-preview.png) |
-| AI Companion     | ![AI Chat Preview](https://github.com/user-attachments/assets/example-ai-preview.png)          |
+| Login / Register | ![Auth Page Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/login%20%26%20register%20dekstop.png)      |
+| Tracker Harian   | ![Tracker Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/tracker%20harian%20dekstop.png)     |
+| Insight Journal  | ![Journal Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/insight%20jurnal%20dekstop.png)     |
+| Growth Dashboard | ![Dashboard Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/growth%20dashboard%20dekstop.png) |
+| AI Companion     | ![AI Chat Preview](https://github.com/Dzakiudin/Reflectify-Track-Reflect/blob/main/src/Ai%20companion%20dekstop.png)          |
 
 > *Catatan:* Ganti tautan gambar di atas dengan screenshot asli dari proyekmu di folder `/assets/preview/` agar tampil di halaman README GitHub.
 
